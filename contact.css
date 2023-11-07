@@ -1,0 +1,63 @@
+.height{
+    height: 200px;
+}
+
+.header{
+    background-color: #14394c;
+}
+
+
+.view{
+    margin-left: 240px;
+}
+
+.gets{
+    font-size: 14px;
+    margin-top: -40px;
+}
+
+.image1{
+    width: 600px;
+}
+
+.like{
+    width: 40px;
+    margin-left: 130px;
+}
+
+.line{
+    border-bottom: 1px solid black;
+   width: 80%;
+    border-color: #b7b9bf;
+}
+
+
+.asked{
+    margin-top: 100px;
+}
+
+
+.able{
+    width: 70%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.background3{
+    background-color: #14394c;
+    width: 100%;
+}
+
+.get{
+    margin-top: 200px;
+}
+
+.Subscribe{
+    background-color: #6d1830;
+    margin: 0px;
+    
+}
+
+.prefer{
+    background-color: #6d1830;
+}
